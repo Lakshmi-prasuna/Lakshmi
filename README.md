@@ -43,7 +43,7 @@ I'm a recent postgraduate in **Computer Science specializing in Artificial Intel
 
 ## 🚀 Featured Projects
 
-### 🩺 AI-powered COVID-19 Detection
+### 🩺 [AI-powered COVID-19 Detection](https://github.com/Lakshmi-prasuna/covid-19-detection)
 `Jan 2024 – Apr 2024` · `Python, TensorFlow, Keras, Deep Learning`
 - Designed and implemented a **CNN** to detect COVID-19 from chest X-ray images with **96% test accuracy**.
 - Integrated **interpretable ML** techniques to generate visual explanations, improving model transparency for healthcare applications.
